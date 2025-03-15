@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ejercicioOcho {
     public static void main(String[] args) {
+        
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
         int year = 0;
         System.out.println("Ingrese un año: ");

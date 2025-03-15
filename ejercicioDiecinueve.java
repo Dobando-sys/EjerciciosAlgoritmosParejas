@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ejercicioDiecinueve {
     public static void main(String[] args) {
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese un valor de velocidad m/s: ");

@@ -4,6 +4,7 @@ public class ejercicioCinco {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
+        //Definición de las variables
         String UsuarioPredf = "admin";
         String ContraPredf = "1234";
 

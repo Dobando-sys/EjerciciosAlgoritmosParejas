@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class ejercicioDos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-       
+        
+        //Definición de las variables
         int numeroA = 0, numeroB = 0;
         System.out.println("Ingrese el primer numero "); 
         numeroA = sc.nextInt();

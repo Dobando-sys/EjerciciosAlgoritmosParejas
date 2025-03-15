@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class ejercicioDieciocho {
     public static void main(String[] args) {
+    //Definición de las variables
     Scanner sc = new Scanner(System.in);
     String contrasena = "";
     System.out.println("Ingrese la contraseña:");

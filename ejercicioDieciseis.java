@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ejercicioDieciseis {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        //Definición de las variables
         int numero = 0;
         int numeroDos = 0;
         int resultado = 0;

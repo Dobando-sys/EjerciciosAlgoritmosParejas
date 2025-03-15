@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ejercicioCatorce {
     public static void main(String[]args){
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
         double compra = 0;
         boolean descuento = false;

@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ejercicioTres {
     public static void main(String[] args) {
+        
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese el primer número:");

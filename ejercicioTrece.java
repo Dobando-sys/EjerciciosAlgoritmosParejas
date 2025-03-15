@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ejercicioTrece {
     public static void main(String[] args) {
+        
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese una temperatura en grados Celsius (°C): ");

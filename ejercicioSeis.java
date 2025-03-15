@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class ejercicioSeis {
     public static void main(String[] args) {
+        
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
         int calificacion = 0; 
         System.out.println("Ingrese su calificacion:");

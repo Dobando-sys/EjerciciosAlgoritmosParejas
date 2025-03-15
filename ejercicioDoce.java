@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ejercicioDoce {
     public static void main(String[] args) {
+        
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
         int numero = 0;
         System.out.println("Ingrese un número: ");

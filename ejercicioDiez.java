@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ejercicioDiez {
     public static void main(String[] args ) {
+        
+        //Definición de las variables
         Scanner sc = new Scanner(System.in);
         double promedio = 0.0;
         double asistencia = 0.0;
